@@ -17,5 +17,7 @@ for i in range(0,n) :
     a = float(input("Give the element : "))
     li.append(a)
 a = mean(li)
+b = meadian(li)
 print(li)
 print("The mean is : ",a)
+print("The median is : ",b)
