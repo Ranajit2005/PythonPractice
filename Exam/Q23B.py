@@ -27,4 +27,6 @@ arr3 = arr1+arr2
 print(arr3)
 print()
 arr4 = arr1*arr2
+arr5 = np.dot(arr1,arr2)
+print(arr5)
 print(arr4)

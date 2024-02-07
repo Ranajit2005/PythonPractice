@@ -7,6 +7,7 @@ def isPrime(num):
             return 0
             break
         i = i+1
+    print(num)
     return 1
 
 def isPlai(num):
