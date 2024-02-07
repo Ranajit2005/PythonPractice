@@ -9,4 +9,5 @@ plt.scatter(points[:,0],points[:,1])
 
 plt.xlabel("X axis")
 plt.ylabel("Y axis")
+
 plt.show()
